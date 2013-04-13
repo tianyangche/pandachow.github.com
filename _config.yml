@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Ailurus1991
+title : 小熊猫's blog
 tagline: Site Tagline
 author :
   name : Jinyang Zhou
   email : pandachow19910411@gmail.com
   github : pandachow
   twitter : ailurus1991
-  feedburner : feedname
+  facebook : jinyang.chow
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

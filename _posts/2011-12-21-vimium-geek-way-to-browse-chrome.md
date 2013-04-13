@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Vimium--用Geek的方式来浏览Chrome
+title: Vimium -- 用Geek的方式来浏览Chrome
 categories:
-- 伪技术
+- technology
 tags:
 - Vim
 - Chrome

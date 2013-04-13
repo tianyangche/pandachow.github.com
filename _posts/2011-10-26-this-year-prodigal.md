@@ -2,9 +2,10 @@
 layout: post
 title: 这些年败掉的东西
 categories:
-- 真生活
+- life
 tags:
-- 数码
+- Digital Device
+- Joking
 ---
 
 这两天看着自己屋子里面堆着各样数据线，真心觉得自己实在是太能花钱了，列个清单吧。

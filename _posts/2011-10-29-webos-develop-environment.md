@@ -1,11 +1,11 @@
 ---
 layout: post
-title: WebOS开发——开发环境的搭建
+title: WebOS开发 —— 开发环境的搭建
 categories:
-- 伪技术
+- technology
 tags:
 - webOS
-- 移动开发
+- Mobile Development
 ---
 
 这篇文章算是半转载半原创吧，不过也是参考了很多资料，感谢煮机网和机锋网的先人们的经验总结。

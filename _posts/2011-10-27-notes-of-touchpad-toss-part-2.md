@@ -2,10 +2,10 @@
 layout: post
 title: TouchPad折腾手记_Part 2
 categories:
-- 伪技术
+- technology
 tags:
-- touchpad
-- 数码
+- Touchpad
+- Device
 ---
 
 这篇记录算是记录下webOS的折腾过程，激活部分就略过了。。。当然了，如果当时手头没有就参照这个Treo8的帖子进行免激活开机。

@@ -2,9 +2,9 @@
 layout: post
 title: 思考能力
 categories:
-- 真生活
+- life
 tags:
-- 独立思考
+- Critical Thinking
 ---
 
 关于独立思考，关于Critical Thinking，文章半改写半节选，这样一篇文章在我学习GRE的时候就一直想写了。写的有点长啊哈哈～

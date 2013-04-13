@@ -1,11 +1,11 @@
 ---
 layout: post
-title: WebOS开发——WebOS和Mojo
+title: WebOS开发 —— WebOS和Mojo
 categories:
-- 真生活
+- life
 tags:
 - webOS
-- 移动开发
+- Mobile Development
 ---
 
 这一篇依旧转载自机锋网的翻译版本，本章主要讲讲WebOS和Mojo的关系。

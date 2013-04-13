@@ -1,11 +1,11 @@
 ---
 layout: post
-title: TouchPad折腾手记_Part 1
+title: TouchPad折腾手记 -- Part 1
 categories:
-- 伪技术
+- technology
 tags:
 - webOS
-- 数码
+- Digital Device
 ---
 
 好久没写东西了，其实一直在学习，有时候没来得及记录而已，1022刷完托福瞬间感觉轻松了些，要抓紧时间码几篇文章。

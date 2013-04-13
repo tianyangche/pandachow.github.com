@@ -2,9 +2,9 @@
 layout: post
 title: Arch Linux安装笔记
 categories:
-- 伪技术
+- technology
 tags:
-- Arch
+- Arch Linux
 - Linux
 ---
 

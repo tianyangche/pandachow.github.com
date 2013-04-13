@@ -2,11 +2,11 @@
 layout: post
 title: 国庆呓语
 categories:
-- 真生活
+- life
 tags:
-- 扯淡
-- 数学建模
-- 数码
+- Joking
+- Mathematical Modeling
+- Digital Device
 ---
 
 ## 书@当当

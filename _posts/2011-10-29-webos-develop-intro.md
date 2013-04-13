@@ -1,11 +1,11 @@
 ---
 layout: post
-title: WebOS开发——WebOS面面观
+title: WebOS开发 —— WebOS面面观
 categories:
-- 伪技术
+- technology
 tags:
 - webOS
-- 移动开发
+- Mobile Development
 ---
 
 把玩了好几天的veer，对WebOS兴趣非常浓厚，决定将业余时间的一部分投身给WebOS开发了。最近在机锋上看到一篇webOS的开发教程连载，遂研习两日，选择部分整理转载之。标题是我起的。= =

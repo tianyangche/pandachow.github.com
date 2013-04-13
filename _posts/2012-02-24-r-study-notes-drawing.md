@@ -2,10 +2,10 @@
 layout: post
 title: R语言学习笔记--绘制图形
 categories:
-- 伪技术
+- technology
 tags:
-- R
-- 统计
+- R language
+- Statistics
 ---
 
 回到学校也有些日子了，最近毕设弄得我十分头疼。不说也罢，想了想还是决定将寒假在家的R笔记全部写完，最后一部分是关于R的画图。说到画图，这里还要重点推荐一下gnuplot这个东西。自己着实被它的名字骗了很久，其他它跟GNU没有一点儿关系。关于这个gnuplot，后面或许还会有学习的笔记。

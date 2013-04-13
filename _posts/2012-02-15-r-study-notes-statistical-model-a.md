@@ -2,7 +2,6 @@
 layout: post
 categories: technology
 title: R语言学习笔记--统计模型（一）
-tagline: R language programming note -- statistical mode (Part A)
 tags: [R language, Statistics]
 ---
 

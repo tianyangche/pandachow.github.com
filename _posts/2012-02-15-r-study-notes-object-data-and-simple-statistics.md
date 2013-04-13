@@ -1,11 +1,10 @@
 ---
 layout: post
 title: R语言学习笔记--数据对象和简单统计
-categories:
-- 伪技术
+categories: technology
 tags:
-- R
-- 统计
+- R language
+- Statistics
 ---
 
 上篇讲完了R语言的一些最基本的安装和命令。这篇继续学习对象和数据类型，也会有一些简单的统计内容。

@@ -2,9 +2,9 @@
 layout: post
 title: 请帮我记得，我还没有坏掉的样子--《他们在毕业的前一天爆炸》影评
 categories:
-- 真生活
+- life
 tags:
-- 影评
+- Reviews of Movie
 - 他们在毕业的前一天爆炸
 ---
 

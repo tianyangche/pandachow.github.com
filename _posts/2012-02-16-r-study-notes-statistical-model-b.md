@@ -2,10 +2,10 @@
 layout: post
 title: R语言学习笔记--统计模型（二）
 categories:
-- 伪技术
+- technology
 tags:
-- R
-- 统计
+- R language
+- Statistics
 ---
 
 ## 引言

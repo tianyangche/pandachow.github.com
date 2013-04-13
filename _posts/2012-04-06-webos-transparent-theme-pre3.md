@@ -2,7 +2,7 @@
 layout: post
 title: webOS小清新风格主题Transparent for Pre3
 categories:
-- 伪技术
+- technology
 tags:
 - webOS
 - Pre3

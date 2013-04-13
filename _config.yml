@@ -85,7 +85,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : 小熊猫的Blog
+      short_name : pandachow
     livefyre :
       site_id : 123
     intensedebate :

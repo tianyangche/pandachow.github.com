@@ -85,7 +85,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : 小熊猫的Blog
     livefyre :
       site_id : 123
     intensedebate :

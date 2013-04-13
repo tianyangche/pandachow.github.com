@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Life
+category: life
 tagline: Happy birthday to myself.
 tags: [Birthday]
 ---

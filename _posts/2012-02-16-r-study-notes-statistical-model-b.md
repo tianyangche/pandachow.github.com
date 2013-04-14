@@ -2,7 +2,7 @@
 layout: post
 title: R语言学习笔记--统计模型（二）
 categories:
-- technology
+- reseach
 tags:
 - R language
 - Statistics

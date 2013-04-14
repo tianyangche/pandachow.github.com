@@ -1,7 +1,7 @@
 ---
 layout: post
 title: R语言学习笔记--数据对象和简单统计
-categories: technology
+categories: research
 tags:
 - R language
 - Statistics

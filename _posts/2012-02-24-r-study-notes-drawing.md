@@ -2,7 +2,7 @@
 layout: post
 title: R语言学习笔记--绘制图形
 categories:
-- technology
+- research
 tags:
 - R language
 - Statistics

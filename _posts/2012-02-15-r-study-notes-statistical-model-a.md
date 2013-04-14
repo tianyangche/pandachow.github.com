@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: technology
+categories: research
 title: R语言学习笔记--统计模型（一）
 tags: [R language, Statistics]
 ---

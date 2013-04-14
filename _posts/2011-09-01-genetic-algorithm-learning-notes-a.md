@@ -2,13 +2,13 @@
 layout: post
 title: 遗传算法学习笔记(一)
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 人工智能
-- 数学建模
-- 算法
-- 遗传
+- Artificial Intelligence
+- Mathematical Modeling
+- Algorithm
+- Genetic Algorithm
 ---
 
 这两天不想去上课, 就在琢磨遗传算法, 一来是以前没学好, 二来是还要给过几天的CUMCM做点准备把. 和上灰色预测学习笔记类似, 还是分两章来记录, 这章主要对理论部分做笔记.

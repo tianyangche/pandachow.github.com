@@ -2,10 +2,10 @@
 layout: post
 title: 传递函数的表示
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 传递函数
+- Transfer Function
 ---
 
 简单对几种传递函数的表示方法进行一些罗列解释, 权当是复习和笔记.

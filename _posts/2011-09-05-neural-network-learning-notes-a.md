@@ -2,14 +2,14 @@
 layout: post
 title: 神经网络学习笔记(一)
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 人工智能
-- 工具箱
-- 数学建模
-- 神经网络
-- 算法
+- Artificial Intelligence
+- MATLAB Toolbox
+- Mathematical Modeling
+- Neuronic Network
+- Algorithm
 ---
 
 话说其实做 RoboCup 很久了, ANN 也甚至早在深度接触到 MCM 之前就有所了解了, RoboCup 也是充斥着各种 ANN 的 paper, 自然读过不少, 但就现在来说 ANN 还多是用在 RoboCup 的仿真层面上, 实体部分貌似现在还没怎么实现把, 我猜是因为硬件条件所限制把, 当然我没有碰过实体(有点遗憾..), 也是没什么发言权的.

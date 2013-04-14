@@ -1,8 +1,8 @@
 ---
 layout: post
-title: TeXlive2011+XeTeX中文配置完全指南
+title: TeXlive2011+XeTeX 中文配置完全指南
 categories:
-- 伪技术
+- technology
 tags:
 - TeX
 - XeTeX

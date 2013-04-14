@@ -3,9 +3,9 @@ layout: post
 status: publish
 title: 开学第一周@2011.2
 categories:
-- 真生活
+- life
 tags:
-- 扯淡
+- Joking
 ---
 
 大三下学期就这么开始了，也是我大学的最后一个学期。陆陆续续见到了几位老师，熟悉的，陌生的。

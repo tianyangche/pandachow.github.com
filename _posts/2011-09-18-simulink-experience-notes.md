@@ -2,11 +2,11 @@
 layout: post
 title: Simulink心得札记
 categories:
-- 伪技术
+- technology
 tags:
 - MATLAB
 - Simulink
-- 数学建模
+- Mathematical Modeling
 ---
 
 一般来说，有许多因素可以影响仿真的性能和精度，这些因素包括模型的设计、构造、仿真参数的设定等等。大部分的情况来看，使用默认的参数Simulink求解器就已经可以有效地处理大部分系统模型的仿真问题了。但是对于一些模型，适当地调节参数会得到更好的效果，当然，这些参数的调整都是以你已经了解参数的意义和模型的特点和行为为前提的。

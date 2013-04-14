@@ -2,13 +2,13 @@
 layout: post
 title: 遗传算法学习笔记(二)
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 人工智能
-- 数学建模
-- 算法
-- 遗传
+- Artificial Intelligence
+- Mathematical Modeling
+- Algorithm
+- Genetic Algorithm
 ---
 
 上一篇简单讲了讲GA的理论部分, 其实就是非常简略的描述了一下实现的步骤, 小白可以用来普及 GA~, 老鸟就跳过把, 哈哈. 这次再来说说 GA 在 MATLAB 中的实现. MATLAB实现有两种方式: GA toolbox 或者自己写函数.

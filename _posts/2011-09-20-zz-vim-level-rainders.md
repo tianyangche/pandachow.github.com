@@ -2,7 +2,7 @@
 layout: post
 title: '[转]Vim练级攻略'
 categories:
-- 伪技术
+- technology
 tags:
 - Vim
 - Linux

@@ -2,12 +2,12 @@
 layout: post
 title: 曲线拟和函数lsqcurvefit&nlinfit
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 数值分析
-- 数学建模
-- 数据拟和
+- Numerical Analysis
+- Mathematical Modeling
+- Data Fitting
 ---
 
 琢磨了好久matlab自带的曲线拟和工具箱, 发现这货只能解决从离散数据得到各种类型的拟和效果, 但是反之貌似没法实现, google一下有这两个函数可以用:

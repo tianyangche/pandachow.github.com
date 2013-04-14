@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Mid-Autumn 的阳光
+title: Mid-autumn 的阳光
 categories:
-- 真生活
+- life
 tags:
-- 扯淡
-- 数学建模
-- 神经网络
+- Joking
+- Mathematical Modeling
+- Neuronic Network
 ---
 
 ## @Home

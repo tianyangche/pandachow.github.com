@@ -5,9 +5,9 @@ categories:
 - 伪技术
 tags:
 - MATLAB
-- 工具箱
-- 数学建模
-- 数据拟和
+- MATLAB Toobox
+- Mathematical Modeling
+- Data Fitting
 ---
 
 在 MATLAB 中做数据拟合是非常常见的事，而又以多项式拟合最为常用，下面简单介绍一下常见的多项式拟合的方法：

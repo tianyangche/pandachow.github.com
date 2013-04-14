@@ -2,12 +2,12 @@
 layout: post
 title: 灰色预测学习笔记(二)
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 人工智能
-- 数学建模
-- 算法
+- Artificial Intelligence
+- Mathematical Modeling
+- Algorithm
 ---
 
 上次笔记重点是灰色预测的理论部分, 这次来讲讲 MATLAB 的实现过程.

@@ -2,7 +2,7 @@
 layout: post
 title: MATLAB 代码编辑器使用经验
 categories:
-- 伪技术
+- technology
 tags:
 - MATLAB
 ---

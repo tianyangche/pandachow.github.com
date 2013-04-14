@@ -2,13 +2,13 @@
 layout: post
 title: 模拟退火算法学习笔记(二)
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 人工智能
-- 函数
-- 数值分析
-- 算法
+- Artificial Intelligence
+- Function
+- Numerical Analysis
+- Algorithm
 ---
 
 实践阿实践, 这里要体现出实践的价值, 前面的理论部分都是为了代码的实现做准备的而已. 这篇文章实在看了很多大牛的笔记和参考很多书籍之后才出炉的, 就是这样, 仍然不能很充分理解 SA 的核心, = =# 罢了罢了笔记就简单写写, 能理解多少算多少把.

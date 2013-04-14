@@ -2,11 +2,11 @@
 layout: post
 title: Monte Carlo模拟搞定多约束非线性规划
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 数学建模
-- 蒙特卡洛
+- Algorithm
+- Monte Carlo
 ---
 
 多约束非线性规划在CUMCM中不论是在组建模型和求解模型方程中都是重头戏，今天在比赛前来重点复习复习这种求解此类问题的“杀手锏”，而且从理论上来讲，只要是应用 Monte Carlo 方法都能在一定程度上顺利求解。下面来以一个例子来说明。

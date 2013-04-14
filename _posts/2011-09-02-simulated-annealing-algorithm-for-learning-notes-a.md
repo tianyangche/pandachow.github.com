@@ -2,12 +2,13 @@
 layout: post
 title: 模拟退火算法学习笔记(一)
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 人工智能
-- 数学建模
-- 算法
+- Artifical Intelligence
+- Mathematical Modeling
+- Algorithm
+- Simulated Annealing Algorithm
 ---
 
 淡疼又在复习模拟退火了, 大概智能算法里面除了神经网络就这个还算熟一点把, 毕竟去年的CUMCM就是拿退火做的最后一问, 虽然结果不是太好, 但也算是靠他最后得到结果了. 貌似很久没用又有一点忘掉了, 复习复习把. o_O#

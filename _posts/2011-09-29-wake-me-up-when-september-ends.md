@@ -2,9 +2,9 @@
 layout: post
 title: Wake Me Up When September Ends
 categories:
-- 真生活
+- life
 tags:
-- 扯淡
+- Joking
 ---
 
 时间晃的太快，甚至有些措手不及。来不及添件外套，来不及迎接假期，甚至连枫树来不及红，树叶都来不及脱落。这个月零零碎碎地下了几场雨，不下雨的日子里多阴少晴，记得每年的短袖都是要穿到国庆的罢，这几天却已经是套上长袖了。

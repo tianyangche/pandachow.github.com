@@ -2,13 +2,13 @@
 layout: post
 title: 遗传算法学习笔记(三)
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 人工智能
-- 数学建模
-- 算法
-- 遗传
+- Artifical Intelligence
+- Mathematical Modeling
+- Algorithm
+- Genetic Algorithm
 ---
 
 本来不准备写这个的, 突然发现 GA 在很多题目中都有应用, 稍微看了一下, 几乎每年的 CUMCM 都会遇到多约束的非线性规划问题. 对这样的非线性规划的问题的建模不是很容易, 当然对这样的模型进行求解同样不容易. 简单总结一下, 对于这种问题, 目前的解决办法也是很多的, 类似 MATLAB 的优化工具箱, Lingo/Lindo 软件, 在数据量不是很大的情况下甚至可以采用穷举法.

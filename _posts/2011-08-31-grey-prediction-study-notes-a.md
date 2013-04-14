@@ -2,11 +2,11 @@
 layout: post
 title: 灰色预测学习笔记(一)
 categories:
-- 伪技术
+- research
 tags:
-- 人工智能
-- 数学建模
-- 算法
+- Artificial Intelligence
+- Mathematical Modeling
+- Algorithm
 ---
 
 灰色预测其实应用面还是非常广的, 可惜已知都没有比较系统的学过, 决定花几天时间好好琢磨琢磨~顺便做个笔记, 大概需要分理论和实践两章讲完, 这一章重点是理论部分, 当然还是重在实践这部分也就从简了.

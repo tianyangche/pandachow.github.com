@@ -2,14 +2,14 @@
 layout: post
 title: 神经网络学习笔记(二)
 categories:
-- 伪技术
+- research
 tags:
 - MATLAB
-- 人工智能
-- 工具箱
-- 数学建模
-- 神经网络
-- 算法
+- Artificial Intelligence
+- MATLAB Toolbox
+- Mathematical Modeling
+- Neuronic Network
+- Algorithm
 ---
 
 前一篇笔记多是讲的一些基本的前提, 也没有涉及到太多的理论部分, 数学模型请各位自行去参考一些专业的书籍, 这里也不再赘述. 这篇笔记主要侧重于在MATLAB中利用工具箱来实现神经网络, 不过在正式开始利用工具箱编程之前还是要了解一些注意事项.

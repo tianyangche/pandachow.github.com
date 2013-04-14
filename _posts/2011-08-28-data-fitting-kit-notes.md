@@ -2,7 +2,7 @@
 layout: post
 title: 数据拟合工具箱笔记
 categories:
-- 伪技术
+- technology
 tags:
 - MATLAB
 - MATLAB Toobox

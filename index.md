@@ -6,7 +6,7 @@ tagline: You have to believe in youself when no one else does.
 {% include JB/setup %}
 
 ## I am a
-student | Christian | Entry level programmer | Hefeier
+Christian | Hefeier | Entry level programmer
 
 ## I love
 Mathematics | Parallel Computing | Country and Rock | Photography

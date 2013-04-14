@@ -9,7 +9,7 @@ tagline: You have to believe in youself when no one else does.
 student | Christian | Entry level programmer | Hefeier
 
 ## I love
-Mathematics | Parallel Computing |Country and Rock | Photography
+Mathematics | Parallel Computing | Country and Rock | Photography
 
 ## Follow me @
 [twitter](https://twitter.com/ailurus1991) | [douban](http://www.douban.com/people/ailurus1991/) | [github](https://github.com/pandachow)

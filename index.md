@@ -19,3 +19,5 @@ Mathematics | Parallel Computing | Country and Rock | Photography
 * [To the moon](http://xiaoxiongmao.me/life/2013/02/24/to-the-moon/)
 * [随意两张片](http://xiaoxiongmao.me/life/2013/02/01/two-pictures-recall-my-memory/)
 * [.......](http://xiaoxiongmao.me/archive.html)
+
+![](/assets/misc/tuzku_002.gif)

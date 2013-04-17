@@ -15,6 +15,7 @@ tags: [Windows, Linux]
 # 这些是大前提
 * 远离 XXOO 版系统。就算用不上 Professional，Home Basic 还是可以有的是不是。至于 Ultimate 嘛。。。
 * 如果你跟我一样喜欢图省事儿，不妨把 C 盘分大一些(100个G？)，然后按照 $HOME 标准来建设 C:\Users\YOURNAME。如果你不太喜欢较大的 C 盘，可以修改注册表将C:\Program Files 和 C:\Program Files (x86) 指向别的盘。
+
 * 重要数据勤备份。小熊猫以为云端永远比本地安全。
 
 我最想说的是各种盗版系统的危害远比我们自己想象的大得多的多。抛去版权不看，多数盗版系统修改和添加的那些乱七八糟的东西都会给本身就够脆弱的 Windows 再插一刀。

@@ -5,8 +5,8 @@ tagline:
 tags: [Sublime Text, Editor, Software]
 ---
 
-## Java
-### 1. 添加 jdk 至环境变量
+# Java
+## 1. 添加 jdk 至环境变量
 ### 2. 创建链接脚本
 
 新建 runJava.bat/sh, 并添加至 jdk/bin。

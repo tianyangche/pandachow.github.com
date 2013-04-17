@@ -9,7 +9,7 @@ tags: [Sublime Text, Editor, Software]
 ### 1. 添加 jdk 至环境变量
 ### 2. 创建链接脚本
 
-新建 runJava.bat/sh, 并添加至 jdk/bin.
+新建 runJava.bat/sh, 并添加至 jdk/bin。
 
 {% highlight bash %}
 ---Windows Version---
@@ -65,9 +65,9 @@ import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_p
 在 Sublime Text 2 中打开命令面板选择 install Package，并搜索到 LaTeXTools 安装即可。
 ### 3. 连接 TeXLive
 
-发行版选择 TeXLive 无疑使主流，也是明智的，无论在 Windows，Linux 还是 OS X。
+发行版选择 TeXLive 无疑是主流的，也是明智的，无论在 Windows，Linux 还是 OS X。
 
-找到 Sublime Text 2安装路径/Data/Packages/LaTeXTools/LaTeX.sublime-build，拖到 Sublime Text 2 里面，添加：
+找到 Sublime Text 2安装路径 /Data/Packages/LaTeXTools/LaTeX.sublime-build，拖到 Sublime Text 2 里面，添加：
 {% highlight java %}
 // *** BEGIN TeXLive 2012 ***
  "cmd": ["latexmk", "-cd",

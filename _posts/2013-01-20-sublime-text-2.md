@@ -60,10 +60,10 @@ fi
 {% highlight bash %}
 import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'
 {% endhighlight %}
-##### 2. 安装 LaTeXTools 插件
+### 2. 安装 LaTeXTools 插件
 
 在 Sublime Text 2 中打开命令面板选择 install Package，并搜索到 LaTeXTools 安装即可。
-##### 3. 连接 TeXLive
+### 3. 连接 TeXLive
 
 发行版选择 TeXLive 无疑使主流，也是明智的，无论在 Windows，Linux 还是 OS X。
 
@@ -79,13 +79,13 @@ import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_p
 // *** END TeXLive 2012 ***
 {% endhighlight %}
 当然，其实在原来的 TeXLive 2009/2011 的基础上稍作修改即可，注意路径就好。
-##### 4. 设置预览
+### 4. 设置预览
 
 到这里下载并安装[SumatraPDF](http://blog.kowalczyk.info/software/sumatrapdf/download-free-pdf-viewer.html)，安装完毕后开终端并切换至 sumatrapdf.exe 所在目录：
 {% highlight java %}
 //请自行切换安装目录
 sumatrapdf.exe -inverse-search "\"C:\Program Files\Sublime Text 2\sublime_text.exe\" \"%f:%l\""
 {% endhighlight %}
-##### 5. reference
+### 5. reference
 
 [LaTeXTools 的 README@github](https://github.com/SublimeText/LaTeXTools)

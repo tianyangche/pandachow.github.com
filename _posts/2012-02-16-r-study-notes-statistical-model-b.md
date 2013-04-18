@@ -183,13 +183,9 @@ k-means是一种常用的非分层的聚类分析方法。kmeans()就是R的k-me
 
 $$h1=-7.36-1.71x_1-15.30x_2+22.19x_3+20.57x_4$$
 
-$$h2=-117.49-55.37x_1-52.12x_2+97.08x_3+79.40x^{4}$$
+$$h2=-117.49-55.37x_1-52.12x_2+97.08x_3+79.40x_4$$
 
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-$$e\^{c}sss$$
-$$e\^c sss$$
-$$h1=\frac{e^{h1}{1+e^h1}$$
+$$h1=\frac{e^{h_1}}{1+e^{h_1}}$$
 
 $$h2=\frac{e^{h_2}} {1+e^{h_2}}$$
 

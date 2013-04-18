@@ -16,6 +16,7 @@ tags : [webOS]
 这里有一篇当初Pre3版本制作的 release [说明](http://xiaoxiongmao.me/technology/2012/04/13/webos-faenzar-theme-for-pre3/)，含少量吐槽成分。
 
 查看煮机网发布链接：
+
 * [Pre3](http://bbs.zoopda.com/thread-143258-1-1.html)
 * [Veer](http://bbs.zoopda.com/thread-145619-1-1.html)
 

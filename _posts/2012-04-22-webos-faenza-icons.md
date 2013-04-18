@@ -10,13 +10,13 @@ tags : [webOS]
 ---
 注意：
 
-1. Pre3上的使用的是WebOS Theme Manager来安装。关于Webos Theme Manager，可以看看小西的帖子：[webOS主题管理器](http://bbs.zoopda.com/thread-94162-1-1.html)。关于它的安装和使用方法，可以参考[wiki](http://www.webos-internals.org/wiki/Application:ThemeManager)。当然，这个主题管理器需要enyo的支持，除了TouchPad，只要是支持enyo的手机也是可以的。不过我没测试……
-2. veer上使用的安装方法比较老套，依然是使用WebosQuickInstall296来安装，关于296的具体使用方法和下载地址可以去zoopda进行搜索。
+* Pre3上的使用的是WebOS Theme Manager来安装。关于Webos Theme Manager，可以看看小西的帖子：[webOS主题管理器](http://bbs.zoopda.com/thread-94162-1-1.html)。关于它的安装和使用方法，可以参考[wiki](http://www.webos-internals.org/wiki/Application:ThemeManager)。当然，这个主题管理器需要enyo的支持，除了TouchPad，只要是支持enyo的手机也是可以的。不过我没测试……
+* veer上使用的安装方法比较老套，依然是使用WebosQuickInstall296来安装，关于296的具体使用方法和下载地址可以去zoopda进行搜索。
 
 这里有一篇当初Pre3版本制作的 release [说明](http://xiaoxiongmao.me/technology/2012/04/13/webos-faenzar-theme-for-pre3/)，含少量吐槽成分。
 
 查看煮机网发布链接：
-1. [Pre3](http://bbs.zoopda.com/thread-143258-1-1.html)
-2. [Veer](http://bbs.zoopda.com/thread-145619-1-1.html)
+* [Pre3](http://bbs.zoopda.com/thread-143258-1-1.html)
+* [Veer](http://bbs.zoopda.com/thread-145619-1-1.html)
 
 

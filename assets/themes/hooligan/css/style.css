@@ -19,6 +19,14 @@ body {
   font-size: 14px;
 }
 
+body div.content {}
+    body div.content code.has-jax {
+        font: inherit;
+        font-size: 100%;
+        background: inherit;
+        border: inherit;
+        color: #000000;
+    }
 /* line 26, ../_sass/_base.scss */
 h1, h2, h3, h4, h5, h6 {
   margin: 0;

@@ -18,4 +18,4 @@ tags:
 * **支持:** Pre3, Rom: 2.2.4
 * **安装:** preware/WQI安装，装完完全重启luna。
 * **内容:** launcher透明，mojo2状态栏透明，mojo状态栏透明。
-* **下载:** [http://bbs.zoopda.com/forum.php?mod=viewthread&tid=141644&page=1#pid2614680](http://bbs.zoopda.com/forum.php?mod=viewthread&tid=141644&page=1#pid2614680)
+* **下载:** [连接@Zoopda](http://bbs.zoopda.com/forum.php?mod=viewthread&tid=141644&page=1#pid2614680)

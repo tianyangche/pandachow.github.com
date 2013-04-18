@@ -188,7 +188,9 @@ $$h2=-117.49-55.37x_1-52.12x_2+97.08x_3+79.40x^{4}$$
 $$ 
 e^x = \sum\_{n=0}^\infty \frac{x^n}{n!} = \lim\_{n\rightarrow\infty} (1+x/n)^n 
 $$
+
 {% math %} e^x = \sum\_{n=0}^\infty \frac{x^n}{n!} = \lim\_{n\rightarrow\infty} (1+x/n)^n {% endmath %}
+
 $$e\^{c}sss$$
 $$e\^c sss$$
 $$h1=\frac{e^{h1}{1+e^h1}$$

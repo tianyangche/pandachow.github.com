@@ -190,8 +190,6 @@ e^x = \sum\_{n=0}^\infty \frac{x^n}{n!} = \lim\_{n\rightarrow\infty} (1+x/n)^n
 $$
 When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-{% math %} e^x = \sum\_{n=0}^\infty \frac{x^n}{n!} = \lim\_{n\rightarrow\infty} (1+x/n)^n {% endmath %}
-
 $$e\^{c}sss$$
 $$e\^c sss$$
 $$h1=\frac{e^{h1}{1+e^h1}$$

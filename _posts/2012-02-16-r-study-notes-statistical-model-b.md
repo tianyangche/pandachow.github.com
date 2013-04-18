@@ -188,7 +188,8 @@ $$h2=-117.49-55.37x_1-52.12x_2+97.08x_3+79.40x^{4}$$
 $$ 
 e^x = \sum\_{n=0}^\infty \frac{x^n}{n!} = \lim\_{n\rightarrow\infty} (1+x/n)^n 
 $$
-
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 {% math %} e^x = \sum\_{n=0}^\infty \frac{x^n}{n!} = \lim\_{n\rightarrow\infty} (1+x/n)^n {% endmath %}
 
 $$e\^{c}sss$$

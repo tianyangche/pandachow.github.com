@@ -48,4 +48,4 @@ tags: [Math, LaTeX, TeXmacs]
 1. 排版好。美观，采用了与 TeX 一样的排版算法，并且用 C++ 重新实现。
 2. WYSIWYW。
 3. 编辑即预览。像Word一样直接在编辑处预览，简单直观。不需要像 TeX 一样左边编辑器，右边还要开一个PDF Viewer。
-4. 数学公式输入。这个 feature 实在是让人难以难以置信的舒适。首先是支持LaTeX的语法，比如`\lambda`就可以直接生成$\lambda$了。
+4. 数学公式输入。这个 feature 实在是让人难以难以置信的舒适。首先是支持LaTeX的语法，比如`\lambda`就可以直接生成$$\lambda$$了。

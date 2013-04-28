@@ -2,7 +2,7 @@
 layout: post
 category: life
 tagline: 我也要说说TeXmacs
-tags: [Math,LaTeX,TeXmacs]
+tags: [Math, LaTeX, TeXmacs]
 ---
 起初在王垠大大的博客里面看到神器 [TeXmacs](http://www.yinwang.org/blog-cn/2012/09/18/texmacs/) 的推荐文，如他所说，他确是极少写什么软件推荐之类的文章。不过他既然长篇大论做此推荐，想必一定是有值得推荐的理由。
 

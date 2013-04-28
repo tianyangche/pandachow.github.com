@@ -21,7 +21,7 @@ tags: [Math, LaTeX, TeXmacs, Emacs, Typesetting]
 
 所以，它既不是 $$TeX$$ 的一个宏包，也不是 $$LaTeX$$ 的一个前端，而是一套全新的排版系统，当然它本身也包括一个本文编辑器。
 
-虽然它的名字里面包含了 $$TeX$$ 和 (E)macs，但是其实它跟 TeX 和 Emacs 都没什么关系，仅仅是 __Inspired by TeX system and Emacs__ 而已。
+虽然它的名字里面包含了 $$TeX$$ 和 (E)macs，但是其实它跟 $$TeX$$ 和 Emacs 都没什么关系，仅仅是 __Inspired by TeX system and Emacs__ 而已。
 
 #为什么不用 Word
 当然了我这里所说的 Word 并不是特指微软的 Office 套件 Word，不过你可以这么认为。

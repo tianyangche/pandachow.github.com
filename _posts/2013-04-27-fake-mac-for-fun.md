@@ -5,6 +5,7 @@ tagline: 我也要说说TeXmacs
 tags: [Math, LaTeX, TeXmacs]
 ---
 起初在王垠大大的博客里面看到神器 [TeXmacs](http://www.yinwang.org/blog-cn/2012/09/18/texmacs/) 的推荐文，十分心动。就像他自己所说的，极少写什么软件推荐之类的文章。
+
 >好久没有推荐过自己喜欢的软件了，现在推荐一款我在美国做数学作业的私家法宝：TeXmacs。我恐怕不可能跟以前那么有闲心写个长篇的 TeXmacs 说明文档了，不过这东西如此的简单好用，所以基本上不用我写什么文档了。
 
 不过他既然长篇大论做此推荐，想必一定是有值得推荐的理由。
@@ -15,6 +16,7 @@ tags: [Math, LaTeX, TeXmacs]
 
 #TeXmacs是什么
 恩，按照其官网的说法，这货是一个为科学工作者们提供诸多方便之处，并且 __所见即所得__ 的编辑平台。
+
 >GNU TeXmacs is a free WYSIWYW editing platform with special features for scientists.
 
 所以，它既不是TeX的一个宏包，也不是LaTeX的一个前端，而是一套全新的排版系统，当然它本身也包括一个本文编辑器。

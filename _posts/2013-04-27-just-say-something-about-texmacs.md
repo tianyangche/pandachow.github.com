@@ -19,7 +19,7 @@ tags: [Math, LaTeX, TeXmacs, Emacs, Typesetting]
 
 >GNU TeXmacs is a free WYSIWYW editing platform with special features for scientists.
 
-所以，它既不是 $$TeX$$ 的一个宏包，也不是 LaTeX 的一个前端，而是一套全新的排版系统，当然它本身也包括一个本文编辑器。
+所以，它既不是 $$TeX$$ 的一个宏包，也不是 $$LaTeX$$ 的一个前端，而是一套全新的排版系统，当然它本身也包括一个本文编辑器。
 
 虽然它的名字里面包含了 $$TeX$$ 和 (E)macs，但是其实它跟 TeX 和 Emacs 都没什么关系，仅仅是 __Inspired by TeX system and Emacs__ 而已。
 

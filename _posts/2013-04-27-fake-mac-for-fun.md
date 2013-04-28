@@ -55,6 +55,8 @@ tags: [Math, LaTeX, TeXmacs]
 * 交互的程序接口。它还支持非常多的计算机代数系统，比如 PARI GP，MACAULAY 2 和 GTYBALT，更多的系统还在开发中。
 * 语言扩展。就像Emacs 与 Emacs/Lisp 扩展一样，TeXmacs 提供了和 Guile/Scheme 语言拓展的能力。未来还会支持 Python 和 Caml。
 
+除了这些之外，Manual 里面还提到了多行分词和支持竖直空隙的优化等等 TeX 没有的创新。
+
 
 #做个总结
 用了几天发现有偶尔确实有崩溃迹象。另外 Windows 的版本有 Bug 没法用。

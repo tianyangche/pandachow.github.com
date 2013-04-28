@@ -52,9 +52,9 @@ tags: [Math, LaTeX, TeXmacs, Emacs, Typesetting]
 曾经我为发现 [Lyx](http://www.lyx.org/) 这样的软件而一度窃喜，觉得大家可以从 (La)TeX 的坑里面跳出来的，后来才发现 Lyx 本身就是一个坑，它既不是真正的 WYSIWYW，也没法排出自己满意的格式，更没法和众多 (La)TeX 的模板相兼容。所以过去相当长的一段时间内自己都是使用一个编辑器配合 Lyx 来写作业，Lyx 很好地解决了公式输入以及绘制表格这样的麻烦事儿。但是，这仅仅是做到了公式以及表格的 WYSIWYW。
 
 #TeXmacs 好在哪
-* 排版好。美观，采用了与 $$TeX$$ 一样的排版算法，并且用 C++ 重新实现。并且使用了统一的分页算法。
+* 排版好。美观，采用了与 $$TeX$$ 一样的排版算法，并且用 C++ 重新实现。使用了比 $$TeX$$ 更优秀的统一的分页算法。
 * 编辑即预览。像 Word 一样直接在编辑处预览，简单直观。不需要像 TeX 一样左边编辑器，右边还要开一个 PDF Viewer。
-* 数学公式输入。这个 feature 实在是让人难以难以置信的舒适。首先是支持 LaTeX 的语法，比如 `\lambda` 就可以直接生成 $$\lambda$$ 了，在就就是近似输入，比如按下`<<`就可以生成 $$\ll$$、按下`@+`就可以生成 $$\oplus$$ 、按下`->`就会出现 $$\rightarrow$$。再加上各种快捷键……
+* 数学公式输入。这个 feature 实在是让人难以置信的舒适。首先是支持 $$LaTeX$$ 的语法，比如 `\lambda` 就可以直接生成 $$\lambda$$ ，再就是近似输入，比如按下 `<<` 就可以生成 $$\ll$$、按下 `@+` 就可以生成 $$\oplus$$ 、按下 `->` 就会出现 $$\rightarrow$$。除此之外还有 TAB 关系输入，比如按下 `@` ，再按下 TAB 键则会出现各种类似小圆圈的字符。
 * 交互的程序接口。它还支持非常多的计算机代数系统，比如 [PARI GP](http://pari.math.u-bordeaux.fr/)，[MACAULAY 2](http://www.math.uiuc.edu/Macaulay2/) 和 [GTYBALT](http://wwwthep.physik.uni-mainz.de/~stefanw/gtybalt.html)，更多的系统支持还在开发中。
 * 语言扩展。就像Emacs 与 Emacs/Lisp 扩展一样，TeXmacs 提供了和 Guile/Scheme 语言拓展的能力。未来还会支持 Python 和 Caml。
 * WYSIWYW。真正的 __所见即所得__。
@@ -62,6 +62,6 @@ tags: [Math, LaTeX, TeXmacs, Emacs, Typesetting]
 除了这些，Manual 里面还提到了多行分词和支持竖直空隙的优化等等 TeX 没有的创新。
 
 #做个总结
-用了几天发现有偶尔确实有崩溃迹象。另外 Windows 的版本有 Bug 没法用。
+泼点冷水，用了几天发现有偶尔确实有崩溃迹象。另外 Windows 的版本有 Bug 没法用。
 
 客观地说，我觉得作为一款 WYSIWYW and structured technical text editor，TeXmacs 实在是非常适合数学，物理以及计算机 Theory 方向学生拿来写作业的。至于格式规范的 paper，还是得由市场说了算。

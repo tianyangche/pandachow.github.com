@@ -19,12 +19,12 @@ tags: [Math, LaTeX, TeXmacs, Emacs, Typesetting]
 
 >GNU TeXmacs is a free WYSIWYW editing platform with special features for scientists.
 
-所以，它既不是TeX的一个宏包，也不是LaTeX的一个前端，而是一套全新的排版系统，当然它本身也包括一个本文编辑器。
+所以，它既不是 TeX 的一个宏包，也不是 LaTeX 的一个前端，而是一套全新的排版系统，当然它本身也包括一个本文编辑器。
 
 虽然它的名字里面包含了 TeX 和 (E)macs，但是其实它跟 TeX 和 Emacs 都没什么关系，仅仅是 __Inspired by TeX system and Emacs__ 而已。
 
-#为什么不用Word
-当然了我这里所说的Word并不是特指微软的 Office 套件 Word，不过你可以这么认为。
+#为什么不用 Word
+当然了我这里所说的 Word 并不是特指微软的 Office 套件 Word，不过你可以这么认为。
 
 * 太贵了。作为微软的拳头产品之一，一套正版的 MS Word 价格并不便宜，即便是学生价或者几个人 share 一套 license 也价格不菲。
 * 缺少创建逻辑格式的工具。怎么说呢，想要在 Word 里面创建多级标题并不是一件多么容易的事情，比如在1和1.1之后我想开始2，按下回车，Word 很难识别我需要开始的是 2 还是 1.2；或者像这里一样的列表，如果每个列表只有一行文字，这并没有什么问题，倘若某个列表含有多行内容，甚至还混杂公式或者表格之类的东西，那么后面的列表Word就很难将它识别作续还是另起新的列表。

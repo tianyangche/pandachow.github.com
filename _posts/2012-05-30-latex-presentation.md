@@ -2,7 +2,7 @@
 layout: post
 category : technology
 tagline: Gave a talk about LaTeX.
-tags : [LaTeX, Typeset]
+tags : [LaTeX, Typesetting]
 ---
 
 大三的时候闵老师看我参加数学建模比赛的时候用LaTeX排论文，跟我打趣地说道：小周你什么时候给协会的会员弄个LaTeX讲座吧，普及普及下。当时自然满口答应下来，只是没想到这个承诺是在临近毕业的时候兑现的。我没奢求看到海报的同学都过来，就算是协会成员也没要求到场，那样没什么意思。人不算多，不足两个班，不过已经超过我的意料了。对了，还要谢谢班里两位妹子的捧场。

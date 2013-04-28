@@ -2,7 +2,7 @@
 layout: post
 category : technology
 tagline: Writing technology paper with Markdown and R language.
-tags : [Markdown, R Language, LaTeX, Typeset]
+tags : [Markdown, R Language, LaTeX, Typesetting]
 ---
 
 ### 不得不说的废话

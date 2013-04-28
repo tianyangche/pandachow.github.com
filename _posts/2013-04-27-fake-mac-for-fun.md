@@ -10,7 +10,7 @@ tags: [Math,LaTeX,TeXmacs]
 
 过完了干瘾，码完了公式，写完了作业。我终于也有时间和一点点发言权来谈谈这款软件了。
 
-###TeXmacs是什么
+#TeXmacs是什么
 按照其官网的说法，这货是一个为科学工作者们提供诸多方便之处，并且__所见即所得__的编辑平台。
 >GNU TeXmacs is a free WYSIWYW editing platform with special features for scientists.
 
@@ -18,7 +18,7 @@ tags: [Math,LaTeX,TeXmacs]
 
 总的来说它跟TeX，跟Emacs都没什么关系，仅仅是__Inspired by TeX system and Emacs__ 而已。
 
-###为什么不用Word
+#为什么不用Word
 当然了我这里所说的Word并不是特指微软的Office套件Word，不过你可以这么认为。
 
 1. 太贵了。作为微软的拳头产品之一，一套正版的MS Word价格并不便宜，即便是学生价或者几个人share一套license也价格不菲。
@@ -29,7 +29,7 @@ tags: [Math,LaTeX,TeXmacs]
 
 说起来就是这样，Word所标榜的『所见即所得』其实是非常有问题的，道理很简单，你在屏幕上所见到的和从打印机里面出来的东西并不一样。
 
-###(La)TeX好不好
+#(La)TeX好不好
 好。非常好，高德纳先生的作品成功地将科技文排版人员从水深火热中解救了出来。免费、有`\section`和`\enumerate`等等的逻辑格式标记来帮助作者和审阅者理清逻辑关系和顺序、纯文本的 *.tex格式以及非常稳定的程序，这些让作者拿一个顺手的 editor 就可以编写高质量的科技文档甚至是学术论文。
 
 说了这么多，(La)TeX这么好，这么优秀，又她妈不要钱，为什么 (La)TeX 还是流行不起来？为什么即便是在表现地捉襟见肘的学术界，Word也仍然占有一席之地？

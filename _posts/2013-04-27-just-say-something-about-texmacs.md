@@ -1,6 +1,6 @@
 ---
 layout: post
-category: life
+category: technology
 tagline: 我也要说说TeXmacs
 tags: [Math, LaTeX, TeXmacs, Emacs, Typesetting]
 ---

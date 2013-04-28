@@ -41,9 +41,9 @@ tags: [Math, LaTeX, TeXmacs, Emacs, Typesetting]
 
 那么，(La)TeX 这么好，这么优秀，又她妈不要钱，为什么 (La)TeX 还是流行不起来？为什么即便是在表现地捉襟见肘的学术界，Word 也仍然占有一席之地？
 
-说白了，(La)TeX 太难了。它根本不是一般人能精通的。仅仅靠着 30 分钟的入门文档的东西实在是很难让你吃一辈子。
+说白了，(La)TeX 太难了。它根本不是一般人能精通的。仅仅靠着 30 分钟的入门文档的实在是很难让你排出一篇从质量上甩开 Word 的文档。
 
-光命令就有上千，如果只算常用的也有好几十，再加上十几个常用宏包和以及搞清楚$$TeX$$，$$LaTeX$$，$$LaTeX2e$$，XeTeX，足够你吃上一阵子的。除此之外你还得熟悉至少一个 LaTeX 发行版，至少一个编辑器。这还不包括你碰上读模板文件、图表排版、使用。
+光命令就有上千，如果只算常用的也有好几十，再加上十几个常用宏包和以及搞清楚 $$TeX$$，$$LaTeX$$，$$LaTeX2e$$ 的关系，如果是中文排版还要涉及 $$XeTeX$$，$$LuaTeX$$ 引擎，再加上了解各中间生成文件的用途和意义，这些绝对是够初学者们忙活一阵子的。除此之外你还得熟悉至少一个发行版，至少一个编辑器。这还不包括你碰上读/修改模板文件、图表排版、使用复杂格式等等各种棘手的问题。
 
 于是真 Geek 们以及那些极力崇拜和模仿他们的伪 Geek 们开始大肆吹捧张扬『这才是真正的写作！』『看我写的是代码，生成的却是Paper！』。恕我直言，如果你们是因为 Word 的伪『所见即所得』以及糟糕的公式排版而不得已而选择(La)TeX，我十分同情你；如果你仅仅是为了炫耀自己是个 Geek 我只能说你是个傻逼。
 
@@ -52,16 +52,16 @@ tags: [Math, LaTeX, TeXmacs, Emacs, Typesetting]
 曾经我为发现 [Lyx](http://www.lyx.org/) 这样的软件而一度窃喜，觉得大家可以从 (La)TeX 的坑里面跳出来的，后来才发现 Lyx 本身就是一个坑，它既不是真正的 WYSIWYW，也没法排出自己满意的格式，更没法和众多 (La)TeX 的模板相兼容。所以过去相当长的一段时间内自己都是使用一个编辑器配合 Lyx 来写作业，Lyx 很好地解决了公式输入以及绘制表格这样的麻烦事儿。但是，这仅仅是做到了公式以及表格的 WYSIWYW。
 
 #TeXmacs 好在哪
-* 排版好。美观，采用了与 TeX 一样的排版算法，并且用 C++ 重新实现。并且使用了统一的分页算法。
-* 编辑即预览。像Word一样直接在编辑处预览，简单直观。不需要像 TeX 一样左边编辑器，右边还要开一个PDF Viewer。
+* 排版好。美观，采用了与 $$TeX$$ 一样的排版算法，并且用 C++ 重新实现。并且使用了统一的分页算法。
+* 编辑即预览。像 Word 一样直接在编辑处预览，简单直观。不需要像 TeX 一样左边编辑器，右边还要开一个 PDF Viewer。
 * 数学公式输入。这个 feature 实在是让人难以难以置信的舒适。首先是支持 LaTeX 的语法，比如 `\lambda` 就可以直接生成 $$\lambda$$ 了，在就就是近似输入，比如按下`<<`就可以生成 $$\ll$$、按下`@+`就可以生成 $$\oplus$$ 、按下`->`就会出现 $$\rightarrow$$。再加上各种快捷键……
-* 交互的程序接口。它还支持非常多的计算机代数系统，比如 PARI GP，MACAULAY 2 和 GTYBALT，更多的系统还在开发中。
+* 交互的程序接口。它还支持非常多的计算机代数系统，比如 [PARI GP](http://pari.math.u-bordeaux.fr/)，[MACAULAY 2](http://www.math.uiuc.edu/Macaulay2/) 和 [GTYBALT](http://wwwthep.physik.uni-mainz.de/~stefanw/gtybalt.html)，更多的系统支持还在开发中。
 * 语言扩展。就像Emacs 与 Emacs/Lisp 扩展一样，TeXmacs 提供了和 Guile/Scheme 语言拓展的能力。未来还会支持 Python 和 Caml。
-* WYSIWYW。
+* WYSIWYW。真正的 __所见即所得__。
 
 除了这些，Manual 里面还提到了多行分词和支持竖直空隙的优化等等 TeX 没有的创新。
 
 #做个总结
 用了几天发现有偶尔确实有崩溃迹象。另外 Windows 的版本有 Bug 没法用。
 
-客观地说，我觉得作为一款 WYSIWYW and structured technical text editor， TeXmacs 实在是是非常适合数学，物理以及计算机 Theory 方向学生拿来写作业的。至于格式规范的 Paper，还是得由市场说了算。
+客观地说，我觉得作为一款 WYSIWYW and structured technical text editor，TeXmacs 实在是非常适合数学，物理以及计算机 Theory 方向学生拿来写作业的。至于格式规范的 paper，还是得由市场说了算。

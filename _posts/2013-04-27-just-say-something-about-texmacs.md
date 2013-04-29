@@ -14,7 +14,7 @@ tags: [Math, LaTeX, TeXmacs, Emacs, Typesetting]
 
 恩，现在过完了干瘾，码完了公式，也写完了作业。我终于也有时间，也有兴致来谈谈这款软件了。
 
-#TeXmacs是什么
+#TeXmacs 是什么
 恩，按照其[官网](http://www.texmacs.org/tmweb/home/welcome.en.html)的说法，这货是一个为科学工作者们提供诸多方便之处，并且 [__所见即所得__](https://en.wikipedia.org/wiki/WYSIWYG) 的编辑平台。
 
 >GNU TeXmacs is a free WYSIWYW editing platform with special features for scientists.
@@ -34,7 +34,7 @@ tags: [Math, LaTeX, TeXmacs, Emacs, Typesetting]
 
 除此之外，Word 所标榜的『所见即所得』其实也是非常有问题的，道理很简单，你在屏幕上所见到的和从打印机里面出来的东西并不一样。
 
-#(La)TeX好不好
+#(La)TeX 好不好
 好，非常好。
 
 高德纳先生的作品成功地将科技文排版人员从水深火热中解救了出来。免费、有`\section`和`\enumerate`等等的逻辑格式标记来帮助作者和审阅者理清逻辑关系和顺序、纯文本的 *.tex 格式以及非常稳定的程序，这些 features 让我们只需要一个顺手的 editor 就可以写出高质量的科技文档甚至是学术论文，不论是产量还是质量上都会甩 Word 几十条长安街。

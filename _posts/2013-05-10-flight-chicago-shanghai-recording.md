@@ -1,7 +1,7 @@
 ---
 layout: post
 category: life
-title: 2013 旅行见闻
+title: 2013 旅途见闻
 tagline: flight recording from Chicago to Shanghai, transfer at Toronto.
 tags: [Ohare, Recording, Toronto, Chicago, Shanghai]
 ---

@@ -1,8 +1,9 @@
 ---
 layout: post
 category: life
+title: 2013 旅行见闻
 tagline: flight recording from Chicago to Shanghai, transfer at Toronto.
-tags: [Ohare, Recording]
+tags: [Ohare, Recording, Toronto, Chicago, Shanghai]
 ---
 在芝加哥的奥黑尔机场候机室认识了一对来自中国湖北襄阳的夫妇。
 

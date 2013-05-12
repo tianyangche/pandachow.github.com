@@ -17,7 +17,7 @@ Mathematics | Parallel Computing | Country and Rock | Photography | Table Tennis
 Hey, guys! Please take this [gift](/assets/files/misc/gift.gif) as a pledge of our friendship. :-)
 
 ## Here are my three recent blogs:
+* [2013 旅途见闻](http://xiaoxiongmao.me/life/2013/05/10/flight-chicago-shanghai-recording/)
 * [Deactivate Google Plus](http://xiaoxiongmao.me/life/2013/05/05/deactivate-google-plus/)
 * [Just say something about TeXmacs](http://xiaoxiongmao.me/technology/2013/04/27/just-say-something-about-texmacs/)
-* [Happy birthday to myself](http://xiaoxiongmao.me/life/2013/04/11/happy-birthday-to-myself/)
 * [.......](http://xiaoxiongmao.me/archive.html)

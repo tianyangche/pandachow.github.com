@@ -5,7 +5,7 @@ tagline: Writing technology paper with Markdown and R language.
 tags : [Markdown, R Language, LaTeX, Typesetting]
 ---
 
-### 不得不说的废话
+# 不得不说的废话
 谈到科技/学术文章的排版，这一直是众多学者、科学家、理工科大学生们所面临的难题，目前来说还比较棘手，而且缺乏相对统一解决办法。就目前我所了解的情况来说，普通青年 Windows Office 流派（X版）、WPS 流派，文艺青年 iWork 流派、LibreOffice/OpenOffice 流派和在线 docs.google 是主要的几类解决方案。而这些方案都没法胜任或者很难胜任科技文的写作，这其中的一个重要的问题就是公式排版。公式排版难看的原因是这些都不属于真正意义上的排版，而是纯文字的堆砌。所以当各式各样的希腊字母和数学符号被当成文字码放在文章中时候，排版效果只能用惨不忍睹来形容。
 
 写到这里的时候，我已经隐隐约约猜到会有人跳出来大叫：我们有 LaTeX！
@@ -16,9 +16,9 @@ Word学习很简单（相对 LaTeX），可是排版能力就非常有限；LaTe
 
 答案当然是肯定的，那就是 Markdown+R。
 
-## Markdown
 好，废话写得足够多了，下面开始正文部分。
 
+# Markdown
 Markdown 不是软件，而是一种语法非常简单的标记语言。简单到什么程度呢？一个比较流行的说法是5分钟可以彻底学会。当然，如果你会写一点 HTML，我觉得这个时间甚至可以更短的。 ^_^ 好，我们来几个例子吧：
 
 1. 在文字前面打上星号就会成为列表。就像这样 * i * ii 这样子。
@@ -33,7 +33,7 @@ Markdown 不是软件，而是一种语法非常简单的标记语言。简单�
 
 那么相比之下，Markdown 是如何解决的呢？关于排版，哦对不起，我忘了说了，Markdown 生成的文件可以完美转成 HTML，所有的排版工作交给CSS模板即可。关于版本跟踪，我们可以将文档放到 github 或者其他支持 git 版本跟踪的服务器上。所以你可以想见，对于文科论文这样的比较长的文章，Markdown 完全可以秒杀 Word。
 
-## Markdown 与 R
+# Markdown 与 R
 Markdown 的任务就是完成文字部分的排版，并提供非常好的版本跟踪基础。那么接下来的问题就是如何在Markdown排版的文章里面美妙地插入公式和图表。那么它究竟是如何做到的呢？
 
 > 每位试图解决 LaTeX 的不便，又试图保留它的优点的人们，都走上了一条不归路。
@@ -44,23 +44,23 @@ Markdown 的任务就是完成文字部分的排版，并提供非常好的版�
 
 可以看到，yihui的knitr包提出的是一个让我们感到万分惊喜和兴奋的解决方案。什么，你要问排版效果？[点此](http://rpubs.com/Ailurus/564)。如你所见，效果已经比 Word 胜出好几个档次。
 
-## 我该从哪儿学起
+# 我该从哪儿学起
 好了，Markdown以及R的铺垫部分说得差不多了，那么对于没接触过它们的同学们来说，如何才能尽快上手并进行创作？
 
-### 关于 Markdown
-1. 语法：可以参考 [Markdown](http://markdown.tw/)，当然我们的 [riku](http://riku.wowubuntu.com/)同志已经翻译成了[简体中文版](http://wowubuntu.com/markdown/)。
-2. 讨论：[V2EX节点](http://v2ex.com/go/markdown)。
-3. 编辑器：Mac下广受好评的Mou；Linux下选择就很多了，RStudio/ReText 等等；Windows 不知道。
-4. RMD：格式详述可以参考yihui本人的[自动化报告](https://github.com/yihui/r-ninja/blob/master/11-auto-report.md)。
+## 关于 Markdown
+* 语法：可以参考 [Markdown](http://markdown.tw/)，当然我们的 [riku](http://riku.wowubuntu.com/)同志已经翻译成了[简体中文版](http://wowubuntu.com/markdown/)。
+* 讨论：[V2EX节点](http://v2ex.com/go/markdown)。
+* 编辑器：Mac下广受好评的Mou；Linux下选择就很多了，RStudio/ReText 等等；Windows 不知道。
+* RMD：格式详述可以参考yihui本人的[自动化报告](https://github.com/yihui/r-ninja/blob/master/11-auto-report.md)。
 
-### 关于 R 语言
-1. R学习笔记：[http://statlab.nchc.org.tw/rnotes/?page_id=44](http://statlab.nchc.org.tw/rnotes/?page_id=44)
-2. 统计之都：[http://cos.name/cn/](http://cos.name/cn/)
-3. 丕子的博文：[http://www.zhizhihu.com/html/y2011/3157.html](http://www.zhizhihu.com/html/y2011/3157.html)
-4. 当然你也可以常来我的blog逛逛，没准我也会写点 ^_^
+## 关于 R 语言
+* R学习笔记：[http://statlab.nchc.org.tw/rnotes/?page_id=44](http://statlab.nchc.org.tw/rnotes/?page_id=44)
+* 统计之都：[http://cos.name/cn/](http://cos.name/cn/)
+* 丕子的博文：[http://www.zhizhihu.com/html/y2011/3157.html](http://www.zhizhihu.com/html/y2011/3157.html)
+* 当然你也可以常来我的blog逛逛，没准我也会写点 ^_^
 
-### 如何搭建Markdown+R的写作环境
-可以参考阳志平的文章：[为什么Markdown+R有较大概率成为科技写作主流？](http://www.yangzhiping.com/tech/r-markdown-knitr.html)，里面对RStudio的配置说得非常详细，关于knitr的安装可以参考knitr的[README](https://github.com/yihui/knitr#readme)。<del>不过需要注意的是，我自己在knitr在线安装的时候报错，原因是[highlight](http://cran.r-project.org/src/contrib/Archive/highlight/)和[parser](http://cran.r-project.org/src/contrib/Archive/parser/)这两个依赖包在官方源中已经被移除了，需要从archive里面找到自行安装。</del>
+## 如何搭建 Markdown+R 的写作环境
+可以参考阳志平的文章：[为什么 Markdown+R 有较大概率成为科技写作主流？](http://www.yangzhiping.com/tech/r-markdown-knitr.html)，里面对 RStudio 的配置说得非常详细，关于 knitr 的安装可以参考 knitr 的[README](https://github.com/yihui/knitr#readme)。<del>不过需要注意的是，我自己在 knitr 在线安装的时候报错，原因是[highlight](http://cran.r-project.org/src/contrib/Archive/highlight/)和[parser](http://cran.r-project.org/src/contrib/Archive/parser/)这两个依赖包在官方源中已经被移除了，需要从 archive 里面找到自行安装。</del>
 
-## 最后一点废话
-Markdown+R 是排版解决方案，Word和LaTeX也是。它们学习曲线有差异，排版能力也有差异。而我们要做的，是明白自己的排版需求，并以此来选择最合适自己的解决方案。它们终究只是工具，目的是为你营造一个舒适并方便的写作环境，让你用尽量少的时间去关注格式和字体，专心写作。所以，在折腾这些的同时你需要思考自己的写作需求，选择一个不适合你的写作工具而浪费大量本该花在写作上时间，是本末导致、得不偿失的。
+# 最后一点废话
+Markdown+R 是排版解决方案，Word 和 LaTeX 也是。它们学习曲线有差异，排版能力也有差异。而我们要做的，是明白自己的排版需求，并以此来选择最合适自己的解决方案。它们终究只是工具，目的是为你营造一个舒适并方便的写作环境，让你用尽量少的时间去关注格式和字体，专心写作。所以，在折腾这些的同时你需要思考自己的写作需求，选择一个不适合你的写作工具而浪费大量本该花在写作上时间，是本末导致、得不偿失的。

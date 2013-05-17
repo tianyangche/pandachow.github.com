@@ -6,7 +6,7 @@ tagline: All my memory about you
 tags : [Recording, Christian]
 ---
 
-<embed src="https://www.box.com/embed/7blu0431y6agbta.swf" width="466" height="400" wmode="opaque" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always">
+<embed src="https://www.box.com/embed/at85yfza9ofu6tm.swf" width="466" height="31" wmode="opaque" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always">
 
 「你眷恋的，都已离去。你问过自己无数次，想放弃的，眼前全在这里。」
 

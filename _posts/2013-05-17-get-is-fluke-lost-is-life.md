@@ -1,7 +1,7 @@
 ---
 layout: post
 category : life
-title: 我得到都是侥幸，失去的都是人生
+title: 我得到都是侥幸，失去的都是人生。
 tagline: All my memory about you
 tags : [Recording, Christian]
 ---

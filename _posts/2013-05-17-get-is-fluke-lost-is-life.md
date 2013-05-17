@@ -8,6 +8,8 @@ tags : [Recording, Christian]
 
 <embed src="https://www.box.com/embed/at85yfza9ofu6tm.swf" width="466" height="31" wmode="opaque" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always">
 
+---
+
 「你眷恋的，都已离去。你问过自己无数次，想放弃的，眼前全在这里。」
 
 无意中发现了你的豆瓣，我看到了那么多相同的喜欢，几乎占据了我所有喜欢的民谣歌手。再加上洋洋洒洒一大串儿的 bio，我想我猜到了你大概是怎样的一个人。我利用了自己那一点拙劣的搜索能力，尽可能地搜寻并翻看你在豆瓣上留下的所有的痕迹。于是，我也知道了一些我最不愿意知道的事情。

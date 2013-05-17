@@ -6,7 +6,7 @@ tagline: All my memory about you
 tags : [Recording, Christian]
 ---
 
-[](http://s1.mjbox.com/file/u/99865/1/.mp3)
+[Song](http://s1.mjbox.com/file/u/99865/1/.mp3)
 
 「你眷恋的，都已离去。你问过自己无数次，想放弃的，眼前全在这里。」
 

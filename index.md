@@ -21,3 +21,7 @@ Hey, guys! Please take this [gift](/assets/files/misc/gift.gif) as a pledge of o
 * [2013 旅途见闻](http://xiaoxiongmao.me/life/2013/05/10/flight-chicago-shanghai-recording/)
 * [Deactivate Google Plus](http://xiaoxiongmao.me/life/2013/05/05/deactivate-google-plus/)
 * [.......](http://xiaoxiongmao.me/archive.html)
+
+{% for post in site.posts limit:10 %}
+<li><span class="post_date">{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}

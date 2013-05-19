@@ -20,4 +20,3 @@ Hey, guys! Please take this [gift](/assets/files/misc/gift.gif) as a pledge of o
 {% for post in site.posts limit:5 %}
 <li><span class="post_date">{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-<li>[.......](http://xiaoxiongmao.me/archive.html)</li>
